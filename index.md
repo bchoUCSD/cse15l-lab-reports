@@ -1,5 +1,9 @@
-Hello World! bchoUCSD
+# Hello World! 
+edit from VSCODE
+
+bchoUCSD
 *This will be in Italic*
+
 **BOLD!!**
 # Bigger heading
 ## Slightly smaller heading
