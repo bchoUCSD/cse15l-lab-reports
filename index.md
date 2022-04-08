@@ -15,9 +15,9 @@ Hello World! bchoUCSD
 
 ---
 
-'System.out.println("Hello World");'
+`System.out.println("Hello World");`
 
-'''
+```
 System.out.println("WOW INLINE BLOCKS");
 System.out.println(":D");
-'''
+```
