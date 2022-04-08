@@ -1,7 +1,11 @@
 # Hello World! 
-edit from VSCODE
 
-bchoUCSD
+*Lab Reports*
+* [Lab 1] (https://bchoucsd.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
+
+
+
 *This will be in Italic*
 
 **BOLD!!**
