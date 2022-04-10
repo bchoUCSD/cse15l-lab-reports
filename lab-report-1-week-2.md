@@ -1,4 +1,4 @@
-# Lab Report 1
+# Lab Report 1 - remote access
 
 * **Installing VScode**
 
