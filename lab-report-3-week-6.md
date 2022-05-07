@@ -20,6 +20,15 @@ Host ieng6
 
 
 ## Setup Github Acess from ieng6
+* I first made a public key on the my remote account with the command `ssh-keygen -t ed25519 -C "bcho@ucsd.edu`
+* make sure to open the ssh agent up ```eval `ssh-agent` ``` and make sure to add your key `ssh-add ~/.ssh/keyname` replacing keyname with your key.
+* This is where my public and private key are stored the `id_ed25519.pub` and `id_ed25519`.
+![img](report3images/locationPrivKey.jpg)
+* In order to run git commands from remote account I need to  add the public key into my github.
+![img](report3images/githubKey.jpg)
+* Now I can run git commands on the remote account. I first cloned the repo using the ssh link from github, and then added a file called `testfile.txt`. I then removed the file and made a commit message. 
+![img](report3images/gitCommands.jpg)
+[Here](https://github.com/bchoUCSD/cse15l-lab-reports/commit/047f8080fd1a0184168129af5a300b99c08b1824) is the resulting commit of the change I made on the remote account.
 
 
 ## Copy whole direcotires with `scp -r`
