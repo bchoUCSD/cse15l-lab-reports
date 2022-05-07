@@ -6,6 +6,10 @@
 
 [Lab 2](https://bchoucsd.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 
+[Lab 3](https://bchoucsd.github.io/cse15l-lab-reports/lab-report-4-week-6.html)
+
+
+
 ---
 *This will be in Italic*
 
