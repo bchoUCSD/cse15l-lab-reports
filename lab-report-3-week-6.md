@@ -20,3 +20,20 @@ Host ieng6
 
 
 ## Setup Github Acess from ieng6
+
+
+## Copy whole direcotires with `scp -r`
+* we are able to copy entire directories using the `scp` with the `-r` which is means to repeat the call recursively. This allows for a simple command to be extremely powerful.
+* This is just a copy to the remote account 
+![img](report3images/scp1.jpg)
+![img](report3images/scp2.jpg)
+
+Upon logging into the remote account I am able to call the tests on the remote server using `make test`
+![img](report3images/testMarkdown.jpg)
+
+Now combining the previous two commands I copy and run the tests all in one line.
+![img](report3images/combo1.jpg)
+![img](report3images/combo2.jpg)
+
+
+[back](https://bchoucsd.github.io/cse15l-lab-reports/)
