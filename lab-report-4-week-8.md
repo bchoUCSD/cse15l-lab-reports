@@ -17,7 +17,7 @@ My Repository: [Link](https://github.com/bchoUCSD/markdown-parser)
 
 3. **Third Snippet**
 ![img](report4images/s3Other.jpg)
-- By utillizing the VScode preview feature for markdown files, I was able to see that the links are ` https://www.twitter.com `, `https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule`, and `https://cse.ucsd.edu/`. I made the Junit test check for if the strings inside the ArrayList were the same as the expected. The test failed because of an index out of bounds error that occurs when the substring is called with the starting index that is bigger than the ending one.
+- By utillizing the VScode preview feature for markdown files, I was able to see that the links are   `https://www.twitter.com` , `https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule`, and `https://cse.ucsd.edu/`. I made the Junit test check for if the strings inside the ArrayList were the same as the expected. The test failed because of an index out of bounds error that occurs when the substring is called with the starting index that is bigger than the ending one.
 
 ## Own Implementation
 
