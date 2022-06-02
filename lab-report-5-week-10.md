@@ -27,3 +27,5 @@
 * I think to fix this problem of differentiating links and images needs an if statement to check if there is an exclamation mark before the first open bracket. By adding an if statement here to check if it is an image link, it will just skip over the whole line if it is an image.
 
 ![img](report5images/577Change.png)
+
+[back](https://bchoucsd.github.io/cse15l-lab-reports/)
